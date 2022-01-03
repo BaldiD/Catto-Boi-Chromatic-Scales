@@ -1,2 +1,5 @@
 # Catto-Boi-Chromatic-Scales
-Credits go to Catto Boi Creator for the files and voicebank
+Credits
+Catto Boi Creator for the Catto Voices
+Credits 
+Propsnax#3681 for making the Catto Boi V3 DWP
